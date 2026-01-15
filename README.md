@@ -36,8 +36,8 @@ Der Datensatz umfasst unter anderem:
 - Beschäftigtenquote von Männern  
 - regionale Kennziffern (z. B. Regierungsbezirke)  
 - Bezugsjahr: **2022**
-
 Zudem wurden auch noch Daten aus dem **Statistischen Bundesamt** verwendet.
+
 ---
 
 ## 📈 Visualisierungen
