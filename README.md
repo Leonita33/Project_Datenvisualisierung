@@ -65,4 +65,4 @@ Alle Visualisierungen dienen der **vergleichenden regionalen Analyse**.
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/Leonita33/Datenvisualisierung_project.git
+git clone https://github.com/Leonita33/Project_Datenvisualisierung.git
